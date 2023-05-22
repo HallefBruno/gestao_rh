@@ -14,3 +14,15 @@
 
 6° Subindo projeto
  - python manage.py runserver
+
+7° Criar um modulo
+ - python manage.py startapp empresa
+
+8° Criando migrações ou JPA
+ - python manage.py makemigrations
+
+9° Criando migrações
+ - python manage.py migrate
+
+10° Criando superuser
+ - python manage.py createsuperuser

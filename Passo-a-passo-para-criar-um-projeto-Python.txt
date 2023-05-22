@@ -1,0 +1,16 @@
+1° Criar uma 'VENV' 
+ - python -m venv venv
+
+2° Ativar a venv
+ - entrar na venv e depois na pasta Scripts e execultar o activate
+
+3° Depois de ativar o activate, voltar para a raiz do projeto
+
+4° Instalando o django
+ - pip install django
+
+5° Criando projeto django
+ - django-admin startproject gestao_rh .
+
+6° Subindo projeto
+ - python manage.py runserver
